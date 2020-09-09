@@ -8,7 +8,7 @@ module.exports = {
     //             target:'http://jsonplaceholder.typicode.com',
     //             changeOrigin:true,
     //             pathRewrite:{
-    //                 '/api':''
+    //                 '/api':''   //代理
     //             }
     //         }
     //     }
